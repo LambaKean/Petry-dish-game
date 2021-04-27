@@ -88,7 +88,7 @@ class Vector:
         pass;
 
 
-    def draw(self, field, width=1, color=colors['black']):
+    def draw(self, field, width=1, color=(0, 0, 0)):
         '''Отрисовка вектора на экране (для отладки)'''
 
         pygame.draw.line(field.surface, color, self.start, self.end, width);
