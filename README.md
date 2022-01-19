@@ -5,6 +5,7 @@
     pip install -r requirements.txt
     
 Для запуска:
+
     python main.py
 
 Мой проект, который я делал в школе в 2020 году.
