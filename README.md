@@ -1,4 +1,4 @@
-# simple-pygame-game
+# Petry-dish-game
 
 Перед запуском игры:
 
